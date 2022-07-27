@@ -1,2 +1,2 @@
-# rent-dvd-in-php
-rent dvd in php source code simple
+# SewaDVD
+Sistem informasi kasir penyewaan DVD
